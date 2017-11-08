@@ -1,7 +1,7 @@
 {
   "name": "base16-hover-tune-theme",
   "theme": "syntax",
-  "version": "0.2.0",
+  "version": "0.0.0",
   "description": "Base16 dark theme for Atom with tune for CSS (hover, focus)",
   "keywords": [
     "base16",
